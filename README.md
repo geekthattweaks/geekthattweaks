@@ -1,5 +1,6 @@
 ### Hi there 👋
-
+- 🔭 I’m currently working on ghostcrawler. It is a DNS recon tool written in Go.
+- 🌱 I’m currently learning Go!
 <!--
 **geekthattweaks/geekthattweaks** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
